@@ -153,6 +153,7 @@
 				"box" : 				{
 					"id" : "obj-19",
 					"maxclass" : "number",
+					"maximum" : 10,
 					"minimum" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 2,
@@ -375,7 +376,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "js_polybuffer_example.js",
-				"bootpath" : "~/Documents/Max 7/Projects/polybuffer~_example/code",
+				"bootpath" : "~/Documents/Max 7/Library/patch/polybuffer_example/polybuffer~_example/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
